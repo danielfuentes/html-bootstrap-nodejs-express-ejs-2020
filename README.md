@@ -1,7 +1,7 @@
-<h1>html-css-express-2020</h1>
-<h2>Pequeño Proyecto desarrollado con HTML - Bootstrap. Migrado al Framework  Express. Bajo el Patrón de Diseño: Modelo - Vista - Controlador</h2>
+<h1>html-bootstrap-nodejs-express-ejs-2020</h1>
+<h2>Pequeño Proyecto desarrollado con HTML - Bootstrap. Migrado al Framework  Express. Bajo el Patrón de Diseño: Modelo - Vista - Controlador, incorporado el motor de plantilla ejs</h2>
 
-<h2>Una vez que clonen este proyecto, deben efectuar lo siguiente: </h2>
+<h2>Una vez que clonen este proyecto, (git clone    )    deben efectuar lo siguiente: </h2>
 <ol>
   <li> Debe ubicarse en la carpeta del proyecto utilizando el comando ( cd "nombre de la carpeta") </li> 
   <li> Luego deben ejecutar el comando: npm install</li>
