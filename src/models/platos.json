@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "descripcion": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+        "precio": 480,
+        "imagen": "food.jpg"
+    }, {
+        "id": 2,
+        "descripcion": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+        "precio": 210,
+        "imagen": "hamburger.jpg"
+    }, {
+        "id": 3,
+        "descripcion": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+        "precio": 395,
+        "imagen": "pizza.jpg"
+    }, {
+        "id": 4,
+        "descripcion": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+        "precio": 520,
+        "imagen": "meal.jpg"
+    }, {
+        "id": 5,
+        "descripcion": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+        "precio": 220,
+        "imagen": "asparagus.jpg"
+    }, {
+        "id": 6,
+        "descripcion": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+        "precio": 380,
+        "imagen": "breakfast.jpg"
+    }, {
+        "id": 7,
+        "descripcion": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+        "precio": 400,
+        "imagen": "breakfast2.jpg"
+    }, {
+        "id": 8,
+        "descripcion": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+        "precio": 140,
+        "imagen": "eclair.jpg"
+    }
+]

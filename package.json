@@ -1,0 +1,19 @@
+{
+  "name": "sprint2-html-css-express",
+  "version": "1.0.0",
+  "description": "Migración de HTML - CSS a Express",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "Daniel Fuentes",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
